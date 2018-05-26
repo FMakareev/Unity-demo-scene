@@ -4,7 +4,7 @@
 
 The project includes a city with a road and 9 buildings.
 
-## Реализовано
+## Implemented
 
 * camera in one plane
 * zoom wheel mouse
